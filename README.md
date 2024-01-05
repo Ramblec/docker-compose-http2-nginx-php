@@ -1,5 +1,7 @@
 Docker compose HTTP2 Nginx PHP
 
+Port 80 is set to redirect.
+
 Using
 1. git clone https://github.com/Ramblec/docker-compose-http2-nginx-php.git
 2. cd docker-compose-http2-nginx-php
